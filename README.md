@@ -1,4 +1,4 @@
-# Prueba para desarrolladores React UbiHPC
+# Prueba para desarrolladores React Finppi
 
 ## Objetivo
 
